@@ -1,5 +1,5 @@
 # Wambugut.
-MY PROFILE
+#MY PROFILE
 THOMAS WAMBUGU
 ICT Student | Data Management & Software Development  
 Information science graduate Technical University Of Kenya (Data Management,Informatics)  
